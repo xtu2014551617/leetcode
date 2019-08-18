@@ -1,3 +1,5 @@
+package me.xtu2014551617;
+
 import java.util.Scanner;
 
 public class Main {
